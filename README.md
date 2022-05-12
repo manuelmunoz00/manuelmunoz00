@@ -33,3 +33,4 @@
 
 [twitter]: https://twitter.com/manuelmunoz00
 [linkedin]: https://linkedin.com/in/manuel-munoz-ayala
+[webdevplaylist]: https://linkedin.com/in/manuel-munoz-ayala

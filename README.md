@@ -1,7 +1,7 @@
 ## Hola, soy Manuel Muñoz, Ingeniero Civil en Informática
 
 - Me gusta aprender de todo, aunque me considero mas backend
-- Tengo una certificación de AWS (estudiando para la próxima)
+- Tengo una certificación de AWS
 - Ciclismo de ruta es mi otra oficina
 
 ### Puedes contactarme en:

@@ -7,6 +7,7 @@
 ### Puedes contactarme en:
 
 [<img align="left" alt="manuelmunoz00 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="manuelmunoz00 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -30,11 +31,6 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[youtube]: https://youtube.com/codeSTACKr
+[twitter]: https://twitter.com/manuelmunoz00
 [linkedin]: https://linkedin.com/in/manuel-munoz-ayala
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0

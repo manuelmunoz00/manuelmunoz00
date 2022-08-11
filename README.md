@@ -4,10 +4,6 @@
 - Tengo una certificación de AWS
 - Ciclismo de ruta es mi otra oficina
 
-### Puedes contactarme en:
-
-[<img align="left" alt="manuelmunoz00 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Lenguajes y herramientas:

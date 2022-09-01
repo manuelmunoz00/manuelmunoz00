@@ -8,7 +8,7 @@ Software Engineer
 * ✉️  You can contact me at [manuel.munoz00@gmail.com](mailto:manuel.munoz00@gmail.com)
 * 🚀  I'm currently working on [Gobierno Digital Chile](http://digital.gob.cl)
 * 🧠  I'm learning Javascript and some frontend technologies
-* ⚡  Cycling is my second office
+* ⚡  Road Cycling is my second office
 
 <a href="https://www.twitter.com/manuelmunoz00" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/manuelmunoz00?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"

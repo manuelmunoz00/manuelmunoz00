@@ -6,7 +6,7 @@ Software Engineer
 
 * 🇨🇱 I'm based in Santiago, Chile
 * 🏬 I'm currently working on [Gobierno Digital Chile](http://digital.gob.cl)
-* 📚 I'm learning Javascript and some frontend technologies
+* 📚 Never stop learning
 * ☕ First then code
 * 🚲 Road Cycling is my second office
 

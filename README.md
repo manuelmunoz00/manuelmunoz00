@@ -9,6 +9,7 @@ Software Engineer
 * 📚 Never stop learning
 * ☕ First then code
 * 🚲 Road Cycling is my second office
+* 🚶always helps
 
 ### Programming languages
 

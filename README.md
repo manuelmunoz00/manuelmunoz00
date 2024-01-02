@@ -54,7 +54,7 @@ Software Engineer
 <p align="left">
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /></a>
 <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" /></a>  
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="PyCharm" /></a>  
 </p>
 
 ### Badges

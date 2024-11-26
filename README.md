@@ -8,7 +8,7 @@ Software Engineer
 * 🏬 I'm currently working on [Gobierno Digital Chile](http://digital.gob.cl)
 * 📚 Never stop learning
 * ☕ First then Code
-* 🚴 🏃‍♂️
+* 🏃‍♂️
 
 ### Programming languages
 

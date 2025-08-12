@@ -56,9 +56,3 @@ Software Engineer
 <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="PyCharm" /></a>  
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/manuelmunoz00"><img src="https://github-readme-stats.vercel.app/api?username=manuelmunoz00&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="manuelmunoz00's GitHub stats" /></a>

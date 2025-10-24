@@ -1,4 +1,4 @@
-Hi 👋 My name is Manuel Muñoz Ayala
+Hello 👋 My name is Manuel Muñoz Ayala
 =============================
 
 Software Engineer

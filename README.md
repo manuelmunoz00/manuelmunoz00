@@ -1,13 +1,12 @@
 Hello 👋 My name is Manuel Muñoz
 =============================
 
-Software Engineer
+Software Engineer 🎧 <a href="https://spotify.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 -----------------
 
 * 🇨🇱 I'm based in Santiago, Chile
 * 🏬 I'm currently working on [Gobierno Digital Chile](http://digital.gob.cl)
 * 📚 Never stop learning
-* 🎧 <a href="https://spotify.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 
 ### Programming languages
 

@@ -20,6 +20,12 @@ Software Engineer
 <a href="https://markdownlivepreview.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
 </p>
 
+### Testing
+
+<p align="left">
+<a href="https://docs.pytest.org/en/stable" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" alt="Pytest" /></a>
+</p>
+
 ### Frameworks
 
 <p align="left">

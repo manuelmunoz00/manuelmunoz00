@@ -6,7 +6,7 @@ Software Engineer 🎧 <a href="https://spotify.com/" target="_blank" rel="noref
 
 * 🇨🇱 I'm based in Santiago, Chile.
 * 🏬 I'm currently working on [Gobierno Digital Chile](http://digital.gob.cl)
-* 📚 Never stop learning
+* 📚 Never stop learning.
 
 ### Programming languages
 

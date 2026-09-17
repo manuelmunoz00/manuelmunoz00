@@ -1,5 +1,4 @@
 # Hola 👋, soy Manuel Muñoz
-=============================
 
 ### Software Engineer 💻 en [Gobierno Digital Chile](https://digital.gob.cl)
 -----------------

@@ -60,14 +60,3 @@ Software Engineer 🎧 <a href="https://spotify.com/" target="_blank" rel="noref
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ---
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manuelmunoz00&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmunoz00&layout=compact&hide_border=true" />
-</p>
-
-### 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-munoz-ayala)

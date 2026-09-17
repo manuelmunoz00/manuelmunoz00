@@ -11,7 +11,7 @@ Software Engineer 🎧 <a href="https://spotify.com/" target="_blank" rel="noref
 ### Artificial Intelligence
 
 <p align="left">
-<a href="https://www.claude.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code" /></a>
+<a href="https://claude.com/es/product/claude-code" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code" /></a>
 </p>
 
 ### Programming languages

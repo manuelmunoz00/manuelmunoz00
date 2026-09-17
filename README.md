@@ -1,4 +1,4 @@
-Hello 👋 My name is Manuel Muñoz
+# Hola 👋, soy Manuel Muñoz
 =============================
 
 ### Software Engineer 💻 en [Gobierno Digital Chile](https://digital.gob.cl)
